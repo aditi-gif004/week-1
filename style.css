@@ -1,0 +1,14 @@
+#info {
+    color: rgb(245, 149, 205);
+
+}
+.info1 {
+    color: brown;
+}
+th,
+td {
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}

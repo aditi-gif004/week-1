@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+nav ul {
+	list-style: none;
+	justify-content: center;
+	gap: 25px;
+	display: flex;
+}
+body {
+	background: lightgrey;
+	line-height: 1.7;
+	color: black;
+
+}
+header {
+	justify-content: center;
+	background: white;
+	padding: 10px 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+
+a {
+	text-decoration: none;
+}
+header h1 {
+	font-size: 2.5 rem;
+	color: black;
+	margin-bottom: 10px ;
+}
+h2 {
+	color: lightcoral;
+
+}
+
+footer {
+	text-align: center;
+	padding: 10px 20px;
+
+}
+section {
+    background: white;
+    margin: 40px auto;
+    padding: 30px;
+    width: 80%;
+    max-width: 900px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
